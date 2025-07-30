@@ -59,9 +59,8 @@ OS – FOR HANDLING DATASET AND TEST IMAGE PATHS DYNAMICALLY.
 
  #OUTPUT
 
- <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/f9ef3a96-bfd3-4574-a063-5a5fa5c70706" />
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fe2be82c-d55d-44c1-a843-285b82ea87a8" />
-
+<img width="1200" height="917" alt="Image" src="https://github.com/user-attachments/assets/0e9a10b2-8746-4413-9632-96acf77278b0" />
+<img width="1260" height="941" alt="Image" src="https://github.com/user-attachments/assets/59bc3c99-51e4-4292-9840-faaecdd17598" />
 
 
 
